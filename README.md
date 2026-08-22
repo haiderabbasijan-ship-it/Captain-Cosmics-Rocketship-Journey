@@ -1,0 +1,1 @@
+A collaborative 3D educational game developed using sprint-based teamwork. Players explore Jupiter, shoot asteroids and collect data while interacting with an AI avatar. The project demonstrates game development, problem-solving, teamwork and creative computing.
